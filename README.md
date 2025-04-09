@@ -1,1 +1,3 @@
-# Next.js
+cd frontend
+pnpm install
+pnpm dev
