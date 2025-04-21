@@ -1,0 +1,31 @@
+{
+  "file_info": {
+    "file_name": "purple_character_illustration.png",
+    "file_type": "PNG",
+    "dimensions": {
+      "width": 512,
+      "height": 512
+    },
+    "file_size": "unknown"
+  },
+  "dates": {
+    "created": "2025-04-21T00:00:00Z",
+    "modified": "2025-04-21T00:00:00Z"
+  },
+  "content": {
+    "description": "A digitally edited illustration of a purple cartoon character wearing a 'LOOTGO' cap and a shirt with 'MONAD VERSE' text, decorated with floral patterns. The character holds a diamond-shaped object.",
+    "tags": ["digital art", "cartoon", "purple", "character", "LOOTGO", "MONAD VERSE", "floral", "diamond"],
+    "style": "cartoonish",
+    "color_scheme": "purple dominant",
+    "background": "solid purple"
+  },
+  "creator": {
+    "artist": "0XRajosree",
+    "editor": "user (edited)"
+  },
+  "custom": {
+    "character_name": "0XRajosree",
+    "theme": "MONAD VERSE",
+    "associated_project": ""
+  }
+}
